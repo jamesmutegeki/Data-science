@@ -1,0 +1,1020 @@
+record_id,date,commodity,market,price,quantity
+0,2021-03-08,Tea,West End Market,18.26,95
+1,2022-04-08,Maize,Central Market,73.02,54
+2,2022-05-17,Beans,West End Market,25.45,14
+3,2022-06-25,Rice,North Market,97.45,71
+4,2022-06-06,Coffee,Central Market,,38
+5,2021-09-15,Rice,West End Market,38.75,90
+6,2022-05-13,Coffee,East Side Market,30.65,89
+7,2021-11-02,Maize,Central Market,43.11,73
+8,2021-02-12,Tea,West End Market,75.77,96
+9,2020-03-06,Beans,Central Market,86.8,21
+10,2021-07-03,Coffee,West End Market,86.77,
+11,2020-07-01,Tea,West End Market,48.1,93
+12,2022-03-08,Maize,West End Market,53.23,48
+13,2021-08-03,Maize,North Market,-46.525832196966235,40
+14,2020-09-28,Maize,Central Market,55.61,85
+15,2021-10-27,Coffee,East Side Market,76.75,92
+16,,Coffee,East Side Market,37.12,30
+17,2022-01-10,Maize,Central Market,11.73,86
+18,2021-02-24,Coffee,East Side Market,81.71,13
+19,2021-04-04,Tea ,Central Market,74.18,14
+20,2021-07-07,Beans,East Side Market,12.16,71
+21,2020-01-03,Maize,East Side Market,51.14,52
+22,2020-07-13,Rice,North Market,71.18,72
+23,2020-02-28,Maize,Central Market,10.43,65
+24,2021-08-15,Maize,Central Market,69.15,16
+25,2021-10-22,Coffee ,West End Market,24.4,31
+26,2020-09-28,Rice,Central Market,-31.436803519161547,13
+27,2022-04-06,Rice,East Side Market,19.99,91
+28,2021-07-20,Maize,West End Market,14.84,34
+29,2020-02-22,Rice,West End Market,65.25,63
+30,2021-12-23,Wheat,Central Market,-38.78484192796173,34
+31,2021-01-08,Maize,East Side Market,84.29,19
+32,2021-09-27,Maize,East Side Market,68.36,72
+33,2021-11-16,Beans,East Side Market,7.35,43
+34,2020-11-08,Beans,Central Market,8.68,26
+35,2021-02-13,Beans,East Side Market,31.47,99
+36,2020-12-19,Coffee,Central Market,97.19,34
+37,2022-04-05,Rice,Central Market,59.78,91
+38,2020-05-07,Tea,East Side Market,11.65,43
+39,2021-11-24,Rice,North Market,71.23,25
+40,2021-11-01,Beans,West End Market,84.2,27
+41,2021-06-11,Wheat,East Side Market,80.4,95
+42,2021-09-17,Coffee,East Side Market,26.34,4
+43,,Maize,East Side Market,41.48,19
+44,2020-05-04,Maize,East Side Market,96.01,7
+45,2022-07-17,Wheat,West End Market,89.69,93
+46,2021-10-03,Beans,North Market,76.42,36
+47,2020-06-05,wheat,East Side Market,35.37,18
+48,2022-08-26,Maize,West End Market,44.5,54
+49,2022-03-30,Coffee,Central Market,33.37,54
+50,2022-05-10,Beans,West End Market,7.76,87
+51,2021-04-17,Beans,Central Market,61.23,11
+52,2020-09-15,Rice,East Side Market,37.06,36
+53,2020-02-01,Wheat ,Central Market,38.25,100
+54,2021-01-12,Beans,East Side Market,49.99,28
+55,2020-14-50,Coffee,Central Market,20.56,75
+56,2021-12-14,Tea,North Market,72.93,89
+57,2021-06-02,Tea,Central Market,58.76,69
+58,2022-01-21,Maize,North Market,96.27,59
+59,2020-03-29,Tea,North Market,83.44,42
+60,2020-08-05,Wheat,North Market,68.48,64
+61,2022-02-15,Rice,West End Market,54.08,31
+62,2021-08-18,Wheat,North Market,6.64,52
+63,2020-05-03,Coffee,North Market,57.29,59
+64,2020-10-16,Rice,East Side Market,75.17,76
+65,2020-10-26,Beans,West End Market,6.34,36
+66,2020-02-22,Beans,North Market,6.17,62
+67,2022-08-29,Wheat,Central Market,12.04,7
+68,2020-10-31,Beans,North Market,80.12,67
+69,2020-03-24,Wheat,Central Market,75.31,27
+70,2020-10-16,Beans,East Side Market,-23.07468152626742,38
+71,2021-10-25,WHEAT,West End Market,64.38,26
+72,2020-10-22,Rice,Central Market,,77
+73,2022-01-22,Wheat,North Market,52.54,11
+74,2021-06-15,RICE,Central Market,68.87,6
+75,2020-04-17,Rice,North Market,51.71,45
+76,2020-09-15,Rice,North Market,94.79,71
+77,2021-05-25,Wheat,Central Market,56.55,25
+78,2020-14-50,Maize,East Side Market,46.62,16
+79,2022-05-02,Beans,West End Market,57.46,15
+80,2022-08-01,Tea,West End Market,50.84,59
+81,,Tea,Central Market,80.05,65
+82,2021-04-11,Coffee,North Market,47.42,43
+83,2022-07-24,Beans,East Side Market,27.19,6
+84,2022-05-15,Wheat,East Side Market,8.52,76
+85,2020-09-28,Coffee,Central Market,43.95,20
+86,2022-06-27,Tea,Central Market,85.97,49
+87,2022-02-17,COFFEE,East Side Market,92.49,96
+88,2020-09-07,Maize,West End Market,9.37,38
+89,2021-08-20,Coffee,East Side Market,12.5,80
+90,2021-03-28,Wheat,North Market,5.89,37
+91,2021-01-25,Coffee,North Market,48.4,50
+92,2022-02-01,Coffee,West End Market,-41.671840513149355,2
+93,2021-11-25,Coffee,West End Market,26.86,29
+94,2021-01-08,Tea,East Side Market,90.82,40
+95,2021-05-28,Maize,West End Market,21.69,70
+96,2022-02-11,Beans,North Market,33.04,15
+97,2020-14-50,Tea,North Market,81.44,51
+98,2021-09-26,Wheat,West End Market,83.13,14
+99,2020-05-23,Coffee,East Side Market,65.36,90
+100,2022-01-30,Maize,North Market,27.31,50
+101,2020-02-03,Coffee,East Side Market,67.22,79
+102,2020-03-03,Beans,East Side Market,14.44,70
+103,2020-05-08,Beans,North Market,25.15,3
+104,2020-01-03,Beans ,East Side Market,82.24,100
+105,2020-14-50,Beans,West End Market,15.44,17
+106,2021-04-04,Beans,Central Market,9.98,68
+107,2022-09-14,Coffee,North Market,94.81,85
+108,2020-05-31,Wheat,North Market,51.58,10
+109,2021-12-19,Rice,West End Market,61.75,65
+110,2020-11-16,Tea,East Side Market,89.37,59
+111,2022-01-26,Tea,East Side Market,50.06,11
+112,2020-02-22,Beans,West End Market,44.03,97
+113,2021-07-23,Coffee,Central Market,25.21,29
+114,2021-09-15,Rice,North Market,97.58,79
+115,2020-14-50,Tea,East Side Market,77.43,45
+116,2021-04-09,Coffee,Central Market,65.15,96
+117,2020-02-20,Rice,West End Market,58.92,7
+118,2020-04-23,Rice,North Market,46.99,97
+119,2022-08-26,Tea,West End Market,,77
+120,2020-08-23,Beans,West End Market,5.73,23
+121,2021-08-12,Tea,Central Market,75.49,59
+122,2022-05-01,Wheat,North Market,43.48,22
+123,2022-03-08,RICE,East Side Market,43.04,40
+124,2020-05-29,Coffee,East Side Market,38.19,83
+125,2021-11-28,Beans,Central Market,78.42,97
+126,2022-03-26,Coffee,West End Market,64.59,9
+127,2022-05-25,Maize,Central Market,47.93,37
+128,2021-10-29,Coffee,North Market,95.65,6
+129,2021-10-23,Coffee,East Side Market,47.8,44
+130,2021-11-26,Beans,North Market,62.93,37
+131,2022-07-17,Tea,Central Market,58.01,33
+132,2022-08-18,Beans,East Side Market,34.47,85
+133,2020-04-05,Coffee,West End Market,68.66,95
+134,2020-05-20,Wheat,Central Market,22.12,99
+135,2022-02-23,Rice,Central Market,56.28,68
+136,2021-01-08,Coffee,East Side Market,70.82,22
+137,2021-04-25,Beans,West End Market,79.46,31
+138,2020-07-23,Beans,North Market,31.77,68
+139,2020-05-07,Beans,Central Market,88.04,14
+140,2021-02-28,Beans,East Side Market,13.71,58
+141,2022-03-21,Coffee,North Market,40.62,13
+142,2020-01-20,Maize,North Market,18.19,58
+143,2021-09-29,Beans,North Market,32.37,7
+144,2020-01-02,Maize,North Market,6.56,31
+145,2022-03-16,Beans,East Side Market,13.13,9
+146,2020-09-03,coffee,Central Market,98.2,3
+147,2021-04-20,Tea,West End Market,38.47,83
+148,2022-06-26,Wheat,East Side Market,78.74,38
+149,2021-11-02,Rice,North Market,76.56,46
+150,2021-12-09,Maize,North Market,75.61,50
+151,2020-03-22,Coffee,Central Market,12.5,24
+152,2021-03-21,Rice,North Market,47.17,94
+153,2022-03-11,Maize ,North Market,81.1,4
+154,2021-01-15,Beans ,West End Market,95.2,20
+155,2020-14-50,Maize,West End Market,66.71,15
+156,2021-05-17,Coffee,Central Market,29.73,79
+157,2021-11-14,Beans,North Market,72.77,88
+158,2021-06-04,Maize,West End Market,85.88,90
+159,2020-05-12,Beans,East Side Market,7.5,48
+160,2020-03-16,maize,North Market,78.07,10
+161,2021-05-29,Tea,East Side Market,79.12,24
+162,2022-07-05,Maize,East Side Market,20.39,29
+163,2021-08-17,Maize,West End Market,33.77,65
+164,2022-02-28,Tea,West End Market,58.54,4
+165,2021-05-09,Tea,North Market,7.88,70
+166,2020-05-27,Tea,North Market,10.69,62
+167,2020-05-05,Tea,West End Market,17.42,72
+168,2022-04-13,Beans,Central Market,41.49,32
+169,2020-04-02,Coffee,East Side Market,52.34,64
+170,2021-11-19,Coffee,East Side Market,38.53,64
+171,2021-08-06,COFFEE,North Market,30.12,52
+172,2022-09-25,Rice,Central Market,47.78,80
+173,2020-02-16,Rice,West End Market,39.73,78
+174,2020-06-15,Tea,North Market,19.15,18
+175,2022-04-15,Coffee,,53.19,63
+176,2020-09-28,Rice,North Market,80.69,89
+177,2022-04-21,Coffee,Central Market,21.2,80
+178,2022-03-04,Maize,Central Market,46.9,53
+179,2022-09-06,Wheat,Central Market,54.27,85
+180,2022-09-07,Coffee,West End Market,87.43,89
+181,2022-08-14,Coffee,West End Market,71.97,63
+182,2022-04-03,Tea,Central Market,56.6,51
+183,2020-10-04,Maize,Central Market,47.03,62
+184,2020-08-26,Tea,Central Market,60.75,86
+185,2021-02-20,Wheat,North Market,78.22,
+186,2021-08-10,Wheat,East Side Market,32.29,8
+187,2022-05-06,Tea,Central Market,21.63,23
+188,2021-04-10,Wheat,West End Market,5.88,14
+189,2021-10-25,Coffee,East Side Market,49.46,15
+190,2021-06-11,beans,West End Market,76.94,82
+191,2022-02-10,Wheat,East Side Market,50.36,1
+192,2021-02-19,Rice,Central Market,39.16,86
+193,2020-06-05,Tea,Central Market,94.36,29
+194,2022-06-13,Coffee,North Market,81.19,98
+195,2021-07-03,Coffee,West End Market,58.6,71
+196,2020-02-26,Rice,North Market,24.51,12
+197,2022-02-02,Coffee,Central Market,68.91,3
+198,2022-02-26,maize,Central Market,10.72,61
+199,2021-11-08,Tea,North Market,89.68,49
+200,2020-01-04,Beans,West End Market,99.32,17
+201,2022-06-15,Rice,North Market,83.22,45
+202,2020-02-04,Maize ,North Market,93.94,31
+203,2020-02-27,Tea,Central Market,9.2,70
+204,2021-11-07,Rice,West End Market,78.39,31
+205,2021-05-22,Wheat,Central Market,61.21,23
+206,2021-07-04,Rice,North Market,35.28,20
+207,2020-09-05,Beans,East Side Market,91.9,54
+208,2021-09-11,Rice,North Market,13.78,25
+209,2022-01-29,Maize,East Side Market,87.6,2
+210,2021-01-02,Wheat,East Side Market,27.74,37
+211,2021-01-14,Rice,North Market,81.27,98
+212,2020-06-05,Maize,East Side Market,6.54,75
+213,2022-01-10,Beans,East Side Market,67.19,33
+214,2021-06-20,Wheat,West End Market,73.43,70
+215,2020-08-11,Maize,Central Market,44.18,30
+216,2020-14-50,Rice ,North Market,6.49,53
+217,2020-06-01,Rice,West End Market,-40.84470382478158,23
+218,2021-12-14,Coffee,West End Market,42.71,52
+219,2021-05-02,Tea,Central Market,86.53,12
+220,2022-07-05,Maize,Central Market,46.22,73
+221,2020-02-03,Maize,North Market,92.8,36
+222,2021-08-03,RICE,East Side Market,72.71,10
+223,2022-09-24,Wheat,West End Market,75.28,89
+224,2021-10-11,Maize,Central Market,78.06,51
+225,2021-09-25,Wheat,West End Market,40.67,75
+226,2020-04-19,Beans,Central Market,41.1,20
+227,2020-01-27,Rice,West End Market,13.29,72
+228,2022-07-15,Coffee ,West End Market,6.17,100
+229,2021-03-21,Beans,East Side Market,21.1,35
+230,2020-04-19,Rice,Central Market,94.7,64
+231,2022-05-30,Maize,West End Market,41.09,57
+232,2020-10-25,Coffee,West End Market,71.05,23
+233,2021-08-29,Tea,East Side Market,31.63,47
+234,2020-03-11,Beans,Central Market,48.85,57
+235,2021-04-04,Wheat,East Side Market,27.99,92
+236,2020-04-21,Wheat,North Market,80.12,69
+237,2020-12-05,Tea,East Side Market,9.21,87
+238,2021-01-18,Wheat,Central Market,53.51,75
+239,2022-05-01,Tea,East Side Market,7.33,54
+240,2021-04-08,Beans,West End Market,24.65,61
+241,2021-06-12,Rice ,Central Market,-17.81081943028067,22
+242,2021-02-09,Beans,,27.03,24
+243,2022-03-26,Coffee,North Market,41.94,27
+244,2021-10-16,Maize,East Side Market,23.72,86
+245,2021-09-21,Wheat,Central Market,85.32,87
+246,2020-05-21,Tea,Central Market,16.11,19
+247,2022-06-05,Wheat,East Side Market,51.52,41
+248,2021-12-28,Maize,East Side Market,96.56,64
+249,2021-04-13,Wheat,Central Market,25.95,29
+250,2022-02-17,Wheat,Central Market,30.45,47
+251,2020-09-26,Coffee,North Market,83.86,39
+252,2021-09-16,Maize,Central Market,27.51,76
+253,2020-11-27,Beans,East Side Market,81.52,69
+254,2021-02-25,Rice,West End Market,53.87,13
+255,2021-11-23,Rice,East Side Market,17.61,42
+256,2020-10-11,Beans,West End Market,40.64,99
+257,2021-10-12,Rice,North Market,5.23,94
+258,2021-07-14,Rice,North Market,45.82,35
+259,2020-05-07,Coffee,West End Market,77.41,81
+260,2022-06-14,Beans,Central Market,45.64,17
+261,2021-12-17,rice,West End Market,68.13,7
+262,2020-01-09,Wheat,Central Market,-24.36352870478479,29
+263,2020-11-16,Maize,North Market,50.38,12
+264,2020-14-50,Rice,East Side Market,69.33,73
+265,2022-07-07,Wheat,East Side Market,19.38,88
+266,2021-07-20,Maize,North Market,45.79,32
+267,2021-02-05,Tea,Central Market,67.55,67
+268,2020-01-13,Maize,East Side Market,15.71,77
+269,2020-01-15,Rice,North Market,69.88,99
+270,2021-10-17,Maize,North Market,64.71,54
+271,2021-10-11,Coffee,Central Market,53.57,20
+272,2021-03-20,Tea,Central Market,46.56,31
+273,2020-06-16,Coffee,West End Market,67.51,2
+274,2022-07-10,Rice,,17.06,35
+275,2021-05-26,Wheat,Central Market,97.63,64
+276,2020-02-15,Beans,West End Market,89.96,15
+277,2022-01-28,Maize,North Market,92.42,5
+278,2022-07-12,Beans,North Market,35.39,74
+279,2020-03-29,Beans,Central Market,11.55,37
+280,2022-03-02,Maize,West End Market,33.87,60
+281,2022-06-17,Tea,,93.58,70
+282,2022-09-11,Rice ,North Market,74.09,68
+283,2021-04-14,Beans,Central Market,,67
+284,2020-08-30,Maize,East Side Market,42.46,8
+285,2020-05-19,Rice,North Market,74.86,35
+286,2021-04-07,Coffee,Central Market,49.28,69
+287,2022-05-27,Rice,Central Market,70.18,90
+288,2021-04-08,Maize,West End Market,9.65,23
+289,2020-05-13,Coffee,North Market,80.41,8
+290,2021-10-23,Wheat,Central Market,29.59,3
+291,2022-01-11,beans,Central Market,,22
+292,2021-09-20,Maize,North Market,25.4,36
+293,2021-10-20,Beans,North Market,57.32,36
+294,2021-08-02,Coffee,Central Market,79.28,70
+295,2021-04-28,Wheat,Central Market,25.81,100
+296,2020-08-12,Coffee,East Side Market,67.4,95
+297,2021-12-21,Wheat,East Side Market,61.29,90
+298,2020-04-02,Coffee,East Side Market,81.99,70
+299,2022-04-01,Coffee,North Market,-45.976913110111674,17
+300,2021-02-09,RICE,East Side Market,85.42,10
+301,2020-06-27,Rice,East Side Market,74.57,82
+302,2020-06-30,Coffee,West End Market,60.95,40
+303,2022-09-17,Tea,North Market,78.23,24
+304,2020-03-31,Tea,North Market,75.81,41
+305,2022-01-07,Tea,,30.2,9
+306,2022-04-28,Wheat,North Market,89.03,49
+307,2020-14-50,Coffee,East Side Market,12.0,38
+308,2022-07-03,MAIZE,North Market,12.13,12
+309,2021-12-14,Maize,East Side Market,46.25,43
+310,2021-01-04,Tea,,14.11,71
+311,2020-04-28,Maize,North Market,7.44,38
+312,2020-09-26,Wheat,West End Market,56.69,49
+313,2021-07-08,Rice,West End Market,19.36,13
+314,2021-08-09,Coffee,Central Market,82.75,69
+315,2021-09-27,Wheat,North Market,72.86,67
+316,2020-07-25,Wheat,East Side Market,81.8,55
+317,2020-11-29,Tea,West End Market,74.07,12
+318,2021-08-03,Coffee,Central Market,64.19,54
+319,2021-08-08,Maize,Central Market,87.41,53
+320,2021-12-08,Maize,North Market,62.82,5
+321,2022-05-28,Tea,West End Market,6.92,39
+322,2021-10-23,Maize,East Side Market,97.55,42
+323,2020-11-14,Wheat,North Market,77.15,8
+324,2022-07-29,Wheat,Central Market,88.14,8
+325,2021-04-01,Beans,North Market,65.36,4
+326,2020-02-20,Wheat,West End Market,84.58,89
+327,2022-06-04,Coffee,East Side Market,66.5,35
+328,2020-10-08,TEA,East Side Market,5.8,40
+329,2021-06-07,Wheat,North Market,49.34,80
+330,2020-09-24,Rice,West End Market,15.27,36
+331,2020-05-23,Tea,East Side Market,27.83,77
+332,2022-04-15,Tea,West End Market,44.76,5
+333,2020-07-04,Tea,North Market,68.83,22
+334,2020-08-15,Wheat,West End Market,58.11,88
+335,2020-02-24,Tea,North Market,36.48,38
+336,2020-02-25,Coffee,Central Market,23.48,88
+337,2020-07-03,Beans,East Side Market,98.78,59
+338,2022-02-21,Wheat,East Side Market,10.51,27
+339,2020-14-50,Maize,North Market,43.32,50
+340,2020-09-11,Tea,Central Market,76.9,3
+341,2022-01-15,Rice,Central Market,60.92,6
+342,2022-04-11,Coffee,East Side Market,90.63,25
+343,2020-02-08,Beans,East Side Market,7.08,16
+344,2021-03-30,Tea,Central Market,9.56,3
+345,2021-06-16,Coffee,East Side Market,70.15,
+346,2021-05-24,Coffee,North Market,14.97,16
+347,2022-08-13,Beans,East Side Market,43.93,71
+348,2020-03-17,Beans ,Central Market,84.35,20
+349,2020-02-10,Maize,East Side Market,97.84,7
+350,2020-14-50,Rice,West End Market,16.01,6
+351,2020-07-06,Tea,West End Market,95.73,94
+352,2020-04-25,Wheat,West End Market,70.54,54
+353,2022-03-08,TEA,Central Market,61.12,87
+354,2020-11-17,Maize,,51.37,57
+355,2021-03-19,Tea,East Side Market,68.64,67
+356,2020-06-09,Beans,North Market,83.51,79
+357,2021-10-20,Wheat,East Side Market,51.71,36
+358,,beans,North Market,52.35,64
+359,2020-07-30,Maize,Central Market,80.22,82
+360,2021-04-29,Wheat,West End Market,82.58,43
+361,2022-03-30,Rice,Central Market,67.6,
+362,2021-02-23,Coffee,Central Market,,18
+363,2021-02-28,Coffee,Central Market,42.33,25
+364,2021-06-27,Tea,Central Market,47.8,65
+365,2020-05-11,Coffee,North Market,79.2,89
+366,2022-09-13,Tea,West End Market,41.54,89
+367,2022-05-31,Rice,East Side Market,62.24,66
+368,2021-12-28,Tea,East Side Market,64.3,45
+369,2021-03-03,Beans,West End Market,77.27,75
+370,2020-09-30,Coffee,North Market,54.66,19
+371,2022-04-13,Beans,West End Market,10.89,27
+372,2022-08-06,Coffee,East Side Market,58.32,90
+373,2022-06-10,Wheat,West End Market,10.11,26
+374,2021-04-04,Beans,West End Market,56.93,100
+375,2020-01-06,TEA,Central Market,45.71,17
+376,2021-05-17,Tea,Central Market,35.65,81
+377,2021-02-17,Coffee,West End Market,95.91,65
+378,2022-04-23,Beans,West End Market,32.89,80
+379,2022-06-25,Tea ,West End Market,90.93,80
+380,2020-02-14,Maize,West End Market,-26.32652330609667,66
+381,2020-08-03,Tea,Central Market,20.9,69
+382,2022-08-20,Beans,North Market,24.53,95
+383,2021-08-11,Tea,North Market,8.6,23
+384,2021-10-18,Rice,North Market,46.14,
+385,2021-09-13,Maize,Central Market,11.9,14
+386,2020-10-29,Wheat,Central Market,55.68,51
+387,,Beans,West End Market,6.06,19
+388,2022-05-21,Coffee,Central Market,76.09,45
+389,2021-07-16,Beans,West End Market,22.23,7
+390,2020-08-28,Coffee ,Central Market,23.75,43
+391,2021-01-08,COFFEE,West End Market,36.19,89
+392,2021-11-26,Wheat,West End Market,26.04,56
+393,2022-05-29,Wheat,West End Market,51.26,83
+394,2021-02-18,Coffee,Central Market,89.75,81
+395,2022-07-01,Beans,West End Market,99.88,100
+396,2020-14-50,Tea,East Side Market,53.49,65
+397,2022-01-19,Coffee,East Side Market,22.02,85
+398,2021-02-01,rice,East Side Market,40.1,27
+399,2022-01-29,Wheat,Central Market,35.79,67
+400,2022-07-18,Coffee,North Market,39.7,10
+401,2020-08-23,Wheat,West End Market,50.8,65
+402,2020-12-04,Tea,East Side Market,39.41,16
+403,2021-08-29,Wheat,North Market,20.32,3
+404,2022-09-19,Tea,East Side Market,,24
+405,2022-04-30,Maize,West End Market,25.58,61
+406,2021-08-27,Beans,East Side Market,53.53,88
+407,2020-04-08,Wheat,Central Market,-26.612855807840766,88
+408,2022-03-04,Coffee,Central Market,67.64,70
+409,2021-08-26,Wheat,West End Market,71.28,62
+410,2021-02-22,Tea,North Market,50.33,11
+411,2020-11-19,Maize,Central Market,16.19,
+412,2022-02-12,Maize,West End Market,55.93,79
+413,2021-02-11,Coffee,North Market,58.11,40
+414,2022-03-31,Tea,East Side Market,71.43,28
+415,2022-08-06,Tea,Central Market,96.63,
+416,2021-12-29,MAIZE,West End Market,8.59,52
+417,2020-07-18,Maize,East Side Market,46.7,85
+418,2020-14-50,Coffee,East Side Market,69.03,84
+419,2020-04-02,Rice,West End Market,43.52,2
+420,2020-01-05,Tea,West End Market,82.47,25
+421,2022-04-12,Wheat,Central Market,37.3,66
+422,2021-08-23,Rice,North Market,78.15,100
+423,2022-09-05,Wheat,Central Market,79.92,90
+424,2021-05-02,coffee,East Side Market,42.9,44
+425,2022-01-23,Beans,West End Market,75.88,25
+426,2021-11-23,Rice,East Side Market,84.45,100
+427,2022-02-21,Wheat,Central Market,40.26,74
+428,2020-12-21,Rice,East Side Market,,62
+429,2020-14-50,Tea,North Market,71.33,89
+430,2021-09-19,Wheat,West End Market,86.87,34
+431,2020-05-14,Beans,East Side Market,76.46,52
+432,2022-01-26,Tea,Central Market,81.39,49
+433,2020-11-03,Maize,North Market,89.86,69
+434,2020-09-23,COFFEE,East Side Market,82.31,81
+435,2021-08-12,Coffee,West End Market,44.12,87
+436,2021-09-20,Coffee,West End Market,68.95,95
+437,2020-03-14,Tea,East Side Market,93.21,79
+438,2022-06-02,Rice,West End Market,72.49,51
+439,2022-01-31,Tea,North Market,22.47,94
+440,2021-06-20,Maize,North Market,11.06,71
+441,2021-10-03,Maize,East Side Market,93.5,30
+442,2022-06-10,Coffee,Central Market,,42
+443,2022-06-17,Rice,East Side Market,71.27,77
+444,2020-09-23,Coffee,West End Market,50.76,12
+445,2020-01-10,MAIZE,West End Market,55.83,63
+446,2022-01-24,Rice,Central Market,22.91,56
+447,2020-10-18,Wheat,Central Market,27.76,79
+448,2020-10-05,Coffee,North Market,11.5,15
+449,2021-03-24,Wheat,Central Market,97.12,14
+450,2022-03-21,BEANS,North Market,44.92,64
+451,2022-07-06,Maize,East Side Market,,10
+452,2020-07-22,Wheat,Central Market,72.89,57
+453,2022-02-01,Maize,East Side Market,69.74,42
+454,2021-10-10,Coffee,North Market,23.88,86
+455,2021-12-05,Maize,West End Market,42.6,6
+456,2021-10-22,Rice,East Side Market,13.68,98
+457,2021-03-25,Coffee,East Side Market,35.09,83
+458,2021-12-14,Maize,West End Market,28.82,91
+459,2020-03-11,Coffee,West End Market,49.5,77
+460,2020-01-20,Wheat,West End Market,48.14,65
+461,2022-02-23,Rice,East Side Market,11.02,50
+462,2020-07-01,Coffee,North Market,15.49,9
+463,2021-08-27,Beans,East Side Market,59.25,85
+464,2021-01-04,Rice,Central Market,-46.13072525879865,11
+465,2020-08-09,Wheat,Central Market,30.25,10
+466,2021-07-25,Maize,East Side Market,23.0,32
+467,2021-02-15,Wheat,West End Market,71.74,14
+468,2021-10-10,Tea,North Market,90.74,42
+469,2021-04-03,Tea,East Side Market,25.32,96
+470,2020-14-50,Maize,West End Market,54.17,39
+471,2021-08-08,Beans,Central Market,94.62,71
+472,2021-08-07,Maize,East Side Market,39.87,30
+473,2020-04-07,Beans,West End Market,21.43,89
+474,2022-08-10,Rice ,North Market,10.31,45
+475,2020-06-02,Beans,Central Market,65.06,68
+476,2020-08-15,Tea,Central Market,99.75,97
+477,2021-03-20,Wheat,West End Market,59.29,52
+478,2021-06-20,Beans,North Market,51.35,26
+479,2020-07-14,Maize,North Market,92.79,86
+480,2022-08-04,Coffee,West End Market,38.22,57
+481,2020-05-31,Beans,East Side Market,86.01,7
+482,2021-06-19,Rice ,Central Market,49.76,95
+483,2020-03-02,Coffee,East Side Market,68.48,85
+484,2021-11-06,Tea,Central Market,94.79,85
+485,2021-09-03,Maize ,North Market,41.17,13
+486,2022-02-01,Beans,North Market,72.68,68
+487,2020-09-20,Rice,West End Market,27.44,65
+488,2022-09-10,Maize,West End Market,37.47,18
+489,2020-07-30,Tea,North Market,19.51,78
+490,2022-07-19,Coffee,East Side Market,34.35,68
+491,2020-05-29,Beans,East Side Market,57.95,16
+492,2022-03-08,Rice,North Market,33.82,82
+493,2021-12-05,Beans,West End Market,63.17,30
+494,2020-08-19,Beans,North Market,40.53,63
+495,2021-03-25,Maize,North Market,68.78,27
+496,2020-11-16,Wheat,North Market,45.62,78
+497,2021-07-04,Tea,Central Market,47.9,6
+498,2021-03-08,tea,Central Market,46.76,100
+499,2022-08-18,Maize,East Side Market,66.38,65
+500,2020-04-02,Coffee,North Market,7.37,92
+501,2021-12-25,Tea,East Side Market,16.74,58
+502,2020-06-02,Coffee,East Side Market,41.16,43
+503,2022-07-09,Beans,Central Market,34.4,58
+504,2020-08-10,beans,Central Market,86.26,1
+505,2022-04-19,Wheat,North Market,62.01,71
+506,2020-12-05,Maize,Central Market,8.49,86
+507,2020-06-30,Maize,East Side Market,32.02,90
+508,2022-05-13,Tea,Central Market,33.43,49
+509,2020-02-29,Rice,Central Market,31.07,68
+510,2020-11-20,Tea,Central Market,70.42,91
+511,2020-07-03,Coffee,West End Market,63.36,94
+512,2021-09-22,Beans,East Side Market,-2.175353078390624,16
+513,2020-11-27,wheat,East Side Market,-10.85816980757442,9
+514,2022-08-02,Maize,West End Market,59.05,23
+515,2022-04-13,Wheat,East Side Market,64.58,69
+516,2022-03-29,Tea ,West End Market,69.43,3
+517,2021-02-02,RICE,West End Market,37.22,69
+518,2021-01-15,Maize,West End Market,34.88,53
+519,2020-01-26,Rice,West End Market,40.55,26
+520,2020-04-10,Coffee,West End Market,74.58,100
+521,2020-02-15,Coffee,East Side Market,8.47,67
+522,2022-02-15,Coffee,West End Market,9.38,85
+523,2020-10-07,Beans,East Side Market,55.57,86
+524,2021-08-10,Coffee,Central Market,38.28,19
+525,2020-03-29,Maize,West End Market,9.82,87
+526,2020-03-21,Beans,North Market,34.68,92
+527,2022-02-23,Wheat,Central Market,92.37,59
+528,2020-12-04,Beans,East Side Market,63.61,51
+529,2021-08-11,Rice,Central Market,15.72,22
+530,2020-09-01,Maize,Central Market,66.7,69
+531,2021-08-03,Coffee,North Market,37.37,76
+532,2021-09-02,Coffee,East Side Market,12.4,74
+533,2021-01-23,coffee,East Side Market,43.55,88
+534,,Tea,Central Market,18.2,97
+535,2022-03-24,Beans,West End Market,59.9,88
+536,2020-14-50,Rice,North Market,91.94,75
+537,2021-01-02,Wheat,West End Market,90.6,1
+538,2021-07-12,Rice,East Side Market,61.07,92
+539,2021-11-17,Beans,East Side Market,85.12,54
+540,2021-03-01,MAIZE,East Side Market,51.24,18
+541,2021-03-10,Tea,North Market,48.17,58
+542,2021-08-04,Coffee,East Side Market,30.58,74
+543,2022-03-08,Rice,North Market,12.61,68
+544,2022-03-28,Coffee ,Central Market,64.91,86
+545,2022-03-28,coffee,Central Market,53.7,94
+546,2021-11-03,Beans ,West End Market,58.55,61
+547,2020-10-08,Tea,West End Market,17.05,36
+548,2021-12-18,Maize,East Side Market,75.2,48
+549,2021-02-26,Beans,Central Market,13.02,20
+550,2020-02-23,Beans,East Side Market,74.76,83
+551,2020-09-25,Wheat,North Market,76.48,49
+552,2020-12-28,wheat,North Market,96.37,6
+553,2021-11-22,Wheat,West End Market,30.37,84
+554,2022-05-01,Tea,East Side Market,69.38,41
+555,2020-14-50,WHEAT,North Market,73.9,5
+556,2021-01-19,Coffee,East Side Market,65.62,16
+557,2021-04-09,Tea,East Side Market,71.09,60
+558,2020-03-02,Rice,West End Market,79.17,8
+559,2021-07-07,Rice,Central Market,93.22,23
+560,2022-03-06,Beans,Central Market,72.96,10
+561,2020-01-04,Wheat,Central Market,68.14,90
+562,2021-12-06,Wheat,North Market,79.19,70
+563,2022-09-10,Wheat,West End Market,33.77,83
+564,2021-02-03,Wheat,West End Market,21.78,50
+565,2021-08-30,Tea,North Market,65.12,18
+566,2022-03-17,Wheat ,West End Market,96.67,3
+567,2020-02-07,Wheat,North Market,87.67,95
+568,2020-02-21,Wheat,North Market,63.75,84
+569,2020-08-13,Maize,East Side Market,11.08,15
+570,2020-08-06,Beans,North Market,97.71,18
+571,2020-09-06,Coffee,Central Market,18.42,90
+572,2020-14-50,Maize,North Market,6.48,1
+573,2020-10-04,Tea,West End Market,81.7,89
+574,2022-04-26,Wheat,East Side Market,8.57,64
+575,2021-07-06,Rice,East Side Market,98.73,80
+576,2021-05-24,Wheat,East Side Market,23.4,88
+577,2021-04-09,Tea,Central Market,32.08,43
+578,2021-08-29,Tea ,East Side Market,7.76,10
+579,2021-01-19,Wheat,West End Market,15.46,31
+580,2021-01-31,Maize,North Market,,28
+581,2020-04-23,Wheat,West End Market,24.21,89
+582,2021-08-14,Wheat,West End Market,33.04,82
+583,2022-01-23,Beans ,North Market,25.56,60
+584,2020-02-15,Beans,East Side Market,61.22,74
+585,2020-09-03,Wheat,Central Market,42.46,90
+586,,Maize,North Market,17.61,83
+587,2021-01-14,Beans,Central Market,49.06,91
+588,2022-08-26,Tea,Central Market,70.62,38
+589,2022-06-28,Coffee,Central Market,36.89,66
+590,2020-05-21,Wheat,Central Market,21.65,9
+591,2020-08-18,Beans,North Market,76.47,90
+592,2021-04-26,Rice,North Market,11.02,63
+593,2020-03-08,Tea,West End Market,39.97,89
+594,2020-06-03,wheat,East Side Market,95.88,36
+595,2022-01-25,Coffee,Central Market,97.11,17
+596,2021-11-02,Rice,Central Market,27.07,83
+597,2021-05-10,Rice,North Market,58.89,40
+598,2020-10-19,Rice,Central Market,32.02,80
+599,2020-07-07,Beans,East Side Market,16.11,74
+600,2021-02-18,tea,West End Market,47.6,69
+601,2021-04-30,Beans,West End Market,97.16,65
+602,2020-11-11,Coffee,,15.67,6
+603,2022-08-16,Coffee,North Market,36.0,25
+604,2021-09-11,Beans ,North Market,95.97,51
+605,2020-12-25,Maize,West End Market,73.02,50
+606,2022-04-05,Wheat,Central Market,89.34,54
+607,2021-06-21,Wheat,North Market,60.78,27
+608,2021-08-04,Maize,North Market,43.9,54
+609,2021-07-26,Beans,North Market,51.61,39
+610,2020-10-21,BEANS,East Side Market,95.82,61
+611,2021-05-07,Wheat,East Side Market,-38.47119943487372,9
+612,2020-06-15,Rice,North Market,82.74,94
+613,2020-10-23,Beans,East Side Market,10.02,82
+614,2020-11-19,Tea,East Side Market,22.41,97
+615,2020-05-20,Tea,West End Market,70.39,75
+616,2022-03-25,Rice,North Market,91.52,20
+617,2020-11-15,Coffee,Central Market,92.02,17
+618,2020-05-25,Beans,West End Market,33.95,16
+619,2022-02-14,Rice,East Side Market,45.36,15
+620,2022-03-12,Beans,Central Market,91.31,39
+621,2020-12-22,Coffee,East Side Market,38.4,96
+622,2020-14-50,Coffee,East Side Market,11.49,98
+623,2022-05-21,Beans,East Side Market,56.03,13
+624,2021-06-10,Rice,East Side Market,95.99,46
+625,2022-01-09,Maize,West End Market,15.48,98
+626,2022-05-25,Rice,North Market,62.04,57
+627,2021-02-09,Maize,North Market,39.91,
+628,2020-06-21,Tea,Central Market,43.06,14
+629,2021-08-30,Beans,North Market,84.62,36
+630,2021-04-10,Tea,West End Market,62.3,63
+631,2020-01-28,Rice,East Side Market,17.79,7
+632,2021-05-19,Wheat,West End Market,64.09,10
+633,2020-02-02,Beans,North Market,29.86,70
+634,2020-11-06,Maize,West End Market,47.04,23
+635,2021-12-02,Beans,East Side Market,41.96,73
+636,2020-10-18,Wheat,East Side Market,42.18,49
+637,2021-01-24,Maize,East Side Market,38.14,4
+638,2021-12-05,Rice,North Market,67.82,83
+639,2020-09-30,Rice,,-16.979725054141156,55
+640,2020-12-10,Wheat,West End Market,42.08,63
+641,2020-10-21,Tea,West End Market,46.42,10
+642,2020-12-10,Rice,North Market,64.33,92
+643,2021-11-10,Coffee,North Market,38.0,39
+644,2021-06-12,Beans,West End Market,48.06,24
+645,2022-01-14,Coffee,North Market,65.6,99
+646,2022-05-30,Coffee,North Market,19.29,39
+647,2020-04-26,Maize,North Market,32.27,88
+648,2020-10-06,Maize,West End Market,58.18,83
+649,,Rice,West End Market,21.72,93
+650,2021-02-10,Maize,West End Market,90.55,47
+651,2022-03-04,Tea,East Side Market,74.78,67
+652,2022-04-05,Rice,Central Market,16.62,43
+653,2020-02-27,Beans,East Side Market,21.64,57
+654,2021-01-06,Rice,Central Market,45.26,36
+655,2021-12-08,Rice,Central Market,91.0,95
+656,2022-05-28,Tea,North Market,96.06,88
+657,2022-06-30,Maize,North Market,92.2,97
+658,2021-02-26,Wheat,North Market,31.03,100
+659,2021-07-14,Rice,Central Market,71.36,46
+660,2021-10-05,Wheat,Central Market,22.46,83
+661,2021-02-24,COFFEE,East Side Market,97.12,98
+662,2020-07-05,Rice,East Side Market,70.31,37
+663,2022-09-24,Wheat,East Side Market,-2.1255346404947715,79
+664,2021-01-11,Rice,East Side Market,,77
+665,2020-07-14,Coffee,North Market,93.19,64
+666,2021-11-24,Rice,North Market,45.97,28
+667,2021-12-01,Beans,East Side Market,-48.830279982299906,58
+668,2020-09-19,MAIZE,West End Market,42.77,50
+669,2022-02-05,coffee,East Side Market,38.66,86
+670,2020-06-22,Maize,North Market,42.5,72
+671,2020-05-10,Rice,East Side Market,72.47,34
+672,2021-03-22,Rice,North Market,88.31,98
+673,2020-07-12,Rice,North Market,19.37,85
+674,2021-12-27,Beans,North Market,72.07,64
+675,2022-04-22,Wheat,East Side Market,13.89,24
+676,2020-04-06,Tea,Central Market,59.22,10
+677,2022-04-30,Maize,Central Market,61.08,42
+678,2022-08-28,Wheat,West End Market,5.55,84
+679,2021-07-14,Tea,East Side Market,9.62,42
+680,2022-03-09,wheat,East Side Market,78.23,3
+681,2021-01-02,Tea,East Side Market,51.63,40
+682,2022-04-10,Rice,North Market,41.87,77
+683,2020-06-07,Beans,North Market,53.77,87
+684,2021-12-01,Coffee,Central Market,46.55,62
+685,2020-04-06,Beans,West End Market,57.34,66
+686,2020-07-02,Tea,West End Market,60.63,3
+687,2022-09-16,wheat,West End Market,73.79,58
+688,,Beans,Central Market,62.39,14
+689,2021-09-25,Maize,North Market,43.48,96
+690,,Coffee,North Market,13.33,25
+691,2021-04-19,Maize,East Side Market,46.4,69
+692,2020-07-25,WHEAT,East Side Market,47.3,3
+693,2021-07-21,WHEAT,Central Market,72.74,64
+694,2020-01-20,Maize,North Market,73.84,63
+695,2021-04-04,Rice,West End Market,44.63,64
+696,2021-09-08,Maize,East Side Market,46.62,76
+697,2022-01-22,Tea,East Side Market,73.68,54
+698,2020-06-09,Wheat,East Side Market,31.83,86
+699,2021-11-24,Maize,North Market,24.9,3
+700,2022-03-14,COFFEE,West End Market,63.67,29
+701,2022-08-06,Maize,West End Market,86.07,78
+702,2020-04-17,Wheat,Central Market,79.26,14
+703,2020-06-06,Maize,West End Market,32.75,65
+704,2020-14-50,Rice,Central Market,46.72,99
+705,2022-02-10,Wheat,East Side Market,40.38,47
+706,2021-11-29,Wheat,East Side Market,44.27,59
+707,2020-06-17,Maize,Central Market,54.15,44
+708,2022-09-23,Wheat,East Side Market,10.49,92
+709,2020-05-30,Wheat,West End Market,34.8,36
+710,2020-03-27,Wheat,North Market,89.33,52
+711,2022-02-14,Rice,East Side Market,56.38,66
+712,2021-01-16,Maize ,West End Market,78.54,65
+713,2020-08-29,Coffee,Central Market,94.43,74
+714,2021-01-21,Coffee,East Side Market,32.03,92
+715,2020-04-04,Beans,East Side Market,39.32,92
+716,2020-09-27,Beans,North Market,69.3,72
+717,2020-05-10,Tea,North Market,95.04,54
+718,2022-09-01,Wheat,Central Market,48.27,21
+719,2020-10-28,Wheat,West End Market,8.83,48
+720,2021-05-15,Beans,,,37
+721,2022-01-07,Coffee,Central Market,59.44,44
+722,2021-11-11,Beans,North Market,68.39,94
+723,2022-06-05,Wheat,North Market,9.35,57
+724,2022-02-14,Maize,West End Market,16.76,25
+725,,Coffee,North Market,6.77,69
+726,2020-01-24,Beans,North Market,55.69,76
+727,2020-09-18,Beans,West End Market,13.65,70
+728,2020-14-50,Beans,North Market,10.6,24
+729,2021-09-03,WHEAT,North Market,29.5,16
+730,2021-02-21,Wheat,North Market,30.58,71
+731,2022-05-16,Maize,Central Market,57.7,39
+732,2021-07-22,Beans,East Side Market,98.6,69
+733,2021-11-27,Maize,West End Market,20.9,62
+734,2020-04-01,Rice,East Side Market,53.48,95
+735,2021-10-12,Maize,West End Market,25.03,41
+736,2020-05-16,Tea,East Side Market,35.56,77
+737,2021-07-05,Maize,Central Market,68.91,90
+738,2022-04-27,Tea,Central Market,82.53,16
+739,,Wheat,Central Market,40.2,2
+740,2021-01-06,Tea,Central Market,64.4,29
+741,2021-05-20,Wheat,East Side Market,-49.228913361095266,15
+742,2022-06-21,Beans,East Side Market,17.18,34
+743,2020-01-03,Rice,Central Market,70.83,33
+744,2021-04-22,Tea,Central Market,35.68,53
+745,,Coffee,East Side Market,,69
+746,2020-12-03,Maize,Central Market,26.43,10
+747,2020-09-10,Tea,Central Market,81.77,81
+748,2022-02-21,Beans,Central Market,54.37,10
+749,2022-07-30,Wheat,Central Market,92.09,89
+750,2021-09-24,Maize,North Market,69.37,38
+751,2022-08-18,Beans,Central Market,49.1,80
+752,2022-05-10,Maize,West End Market,15.26,
+753,2020-03-02,Coffee,West End Market,50.73,24
+754,2020-10-25,Coffee,West End Market,89.1,19
+755,2020-07-19,Maize,East Side Market,,72
+756,2021-08-15,Tea,Central Market,68.45,60
+757,2021-10-16,Rice,North Market,14.96,6
+758,2021-02-13,Beans,East Side Market,74.79,43
+759,2022-02-22,Maize,Central Market,57.7,57
+760,2020-07-19,Maize,,89.11,44
+761,2021-04-12,Rice,Central Market,18.04,15
+762,2021-01-22,Rice,North Market,11.21,17
+763,2020-09-10,Rice,East Side Market,77.49,69
+764,2021-02-01,Rice,North Market,12.73,85
+765,2022-09-05,Tea,West End Market,49.11,48
+766,2022-06-29,Rice,Central Market,90.01,31
+767,2021-08-20,Beans,West End Market,13.05,38
+768,2020-07-02,Coffee,North Market,46.09,64
+769,2022-08-06,Rice,West End Market,32.98,70
+770,2020-10-08,MAIZE,East Side Market,69.14,96
+771,2022-02-14,Coffee,West End Market,-15.674233450073135,52
+772,2022-03-15,Wheat,East Side Market,26.62,27
+773,2020-08-02,Wheat,North Market,13.16,55
+774,2021-03-05,COFFEE,East Side Market,75.09,85
+775,2020-12-04,Wheat,West End Market,7.21,18
+776,2020-12-02,Coffee,North Market,24.4,69
+777,2020-01-28,Wheat,West End Market,14.91,5
+778,2020-01-12,Maize,North Market,27.14,9
+779,2020-05-13,Wheat,Central Market,44.75,50
+780,2020-10-09,Rice,North Market,59.63,26
+781,2021-08-12,Beans,North Market,28.45,73
+782,2020-06-28,Maize,North Market,85.05,51
+783,2020-02-14,Beans,North Market,91.53,73
+784,2022-02-19,Beans,West End Market,11.34,28
+785,2021-12-12,RICE,West End Market,20.66,6
+786,2020-11-30,Wheat,North Market,42.68,
+787,2022-05-11,Wheat,Central Market,67.42,57
+788,,Maize,East Side Market,55.79,10
+789,2022-04-10,Wheat,East Side Market,89.81,57
+790,2020-07-25,Tea,Central Market,34.29,1
+791,2020-03-05,Rice,East Side Market,45.06,44
+792,2021-10-01,Maize,East Side Market,9.18,42
+793,2020-14-50,Coffee,North Market,25.31,23
+794,2020-08-11,Maize,North Market,67.51,80
+795,2021-09-06,Coffee,Central Market,80.17,73
+796,2020-03-10,Tea,East Side Market,65.36,41
+797,,Coffee,,65.86,76
+798,2021-01-19,Maize,North Market,63.88,48
+799,2022-03-21,Maize,North Market,36.23,83
+800,2021-11-11,Tea,Central Market,74.62,27
+801,2021-05-18,Tea,East Side Market,41.24,57
+802,2022-01-12,BEANS,East Side Market,21.5,27
+803,2020-10-05,Beans,East Side Market,62.56,74
+804,2022-04-19,wheat,North Market,49.72,79
+805,2020-06-28,wheat,North Market,77.09,77
+806,2022-07-27,Wheat,West End Market,62.57,18
+807,2021-10-18,Maize,West End Market,92.94,96
+808,2020-09-18,Maize,Central Market,16.83,21
+809,2020-09-05,Tea,North Market,39.98,50
+810,2020-09-10,Rice,Central Market,66.31,59
+811,2022-07-11,Tea,Central Market,13.77,50
+812,2020-11-11,Beans,East Side Market,29.02,69
+813,2022-02-05,Tea,Central Market,78.79,19
+814,2021-03-17,RICE,North Market,-4.422233253072484,68
+815,2020-07-24,Rice,East Side Market,22.29,58
+816,2021-10-13,Beans,East Side Market,90.72,81
+817,2020-03-03,RICE,West End Market,7.82,63
+818,2022-02-18,Maize,Central Market,54.62,
+819,2022-08-21,Wheat,West End Market,36.97,44
+820,2022-01-12,Wheat,Central Market,87.94,1
+821,2021-05-01,BEANS,West End Market,76.39,58
+822,2021-09-13,Tea,West End Market,-18.650074994551314,95
+823,2022-07-15,Tea,Central Market,94.21,61
+824,2022-03-26,Wheat,East Side Market,87.64,92
+825,2020-06-23,Tea,North Market,47.4,85
+826,2020-08-13,Tea,Central Market,73.0,42
+827,2022-06-11,Tea,Central Market,92.66,63
+828,2022-03-14,Coffee,Central Market,40.82,95
+829,2022-02-01,Wheat,East Side Market,32.64,44
+830,2022-05-17,Coffee,West End Market,59.81,
+831,2021-02-08,Wheat,,93.72,85
+832,2022-05-19,Wheat,West End Market,52.48,77
+833,2020-08-08,tea,West End Market,70.42,91
+834,2020-08-18,Tea,Central Market,36.65,27
+835,2020-01-23,Maize,East Side Market,74.1,85
+836,2022-08-03,Rice,North Market,76.98,68
+837,2021-04-13,Coffee,East Side Market,80.17,7
+838,2021-01-05,Coffee,North Market,18.76,96
+839,2022-09-24,Coffee,East Side Market,98.36,22
+840,2021-02-10,Maize,West End Market,97.12,52
+841,2022-06-04,Tea,East Side Market,40.66,86
+842,2020-08-18,Wheat,,16.4,63
+843,2021-12-20,Coffee,North Market,75.81,24
+844,2021-02-07,Coffee,West End Market,91.34,24
+845,2022-09-15,Coffee,North Market,84.53,84
+846,2020-06-14,Maize,East Side Market,-22.914411032387132,6
+847,2021-11-04,Rice,,16.85,70
+848,2020-12-26,Rice ,West End Market,47.27,89
+849,2022-09-07,Coffee,Central Market,9.25,19
+850,2022-07-14,Coffee,West End Market,74.26,71
+851,2021-12-14,wheat,North Market,18.61,81
+852,2020-09-10,Tea,East Side Market,19.58,56
+853,2022-03-28,Maize,North Market,65.82,43
+854,2022-04-21,MAIZE,North Market,79.36,68
+855,2020-07-04,Maize,West End Market,62.71,22
+856,2020-05-09,Tea,North Market,17.12,
+857,2021-12-24,Coffee,Central Market,65.72,100
+858,2020-11-08,Wheat,North Market,31.2,92
+859,2020-06-18,Maize,North Market,85.3,10
+860,2021-05-06,Maize,North Market,6.02,87
+861,2020-14-50,Tea,Central Market,63.55,96
+862,2021-04-04,Coffee,East Side Market,67.81,68
+863,2021-01-23,Tea,East Side Market,39.87,46
+864,2020-08-06,Maize,,85.82,38
+865,2021-04-19,Tea,East Side Market,93.27,66
+866,2020-12-29,WHEAT,,38.62,
+867,2020-14-50,Wheat,Central Market,90.36,63
+868,2021-03-25,Rice,North Market,39.63,69
+869,2020-02-11,Wheat,West End Market,5.55,91
+870,2021-05-15,Wheat,Central Market,23.9,86
+871,2021-02-02,Tea,West End Market,79.13,93
+872,2021-03-15,Maize,East Side Market,52.5,31
+873,2020-09-12,tea,West End Market,12.85,80
+874,2020-07-04,Maize,East Side Market,45.77,14
+875,2021-09-23,Coffee,East Side Market,17.57,25
+876,2021-10-21,Maize,West End Market,98.11,55
+877,,Maize,West End Market,72.6,7
+878,2020-11-07,Rice,North Market,62.62,33
+879,2020-08-31,Tea ,East Side Market,75.42,100
+880,2022-06-24,Beans,Central Market,17.4,16
+881,2022-02-18,Beans,North Market,12.11,44
+882,2022-09-25,Tea,East Side Market,57.3,98
+883,2020-10-07,Rice,Central Market,11.43,65
+884,2021-06-09,Beans,Central Market,70.91,51
+885,2020-08-11,Beans,North Market,42.07,27
+886,2020-05-01,Maize,North Market,73.46,29
+887,2022-03-20,Maize,West End Market,,36
+888,2022-08-27,Beans,East Side Market,5.13,78
+889,,Coffee,East Side Market,63.09,8
+890,2022-01-09,Tea,East Side Market,6.49,100
+891,2021-08-18,Wheat,West End Market,65.26,57
+892,2020-07-08,Wheat,East Side Market,46.22,62
+893,2021-02-07,Beans,North Market,22.14,40
+894,2022-02-07,BEANS,North Market,91.37,13
+895,2020-10-01,coffee,Central Market,6.29,6
+896,2020-05-22,Tea,Central Market,15.1,44
+897,2020-05-06,Coffee,,50.5,70
+898,2021-03-13,Maize,West End Market,89.21,1
+899,2020-06-22,Rice,East Side Market,70.02,92
+900,2020-07-01,Beans,West End Market,63.49,11
+901,2022-07-27,Rice,North Market,68.39,37
+902,2021-02-03,Rice,Central Market,86.86,100
+903,2022-02-24,Wheat,Central Market,96.16,12
+904,2022-08-01,Rice,North Market,44.32,43
+905,2022-03-06,Wheat,North Market,83.03,75
+906,2020-05-16,Tea,Central Market,5.27,3
+907,2021-07-18,Maize,West End Market,87.34,38
+908,2020-01-27,Wheat,East Side Market,,90
+909,2020-03-21,Wheat,Central Market,12.01,21
+910,2021-04-26,Maize,North Market,22.33,96
+911,2020-06-13,Rice,,19.81,5
+912,2022-08-11,Wheat,North Market,83.8,65
+913,2021-07-26,Maize,East Side Market,43.04,51
+914,2021-10-24,Maize,North Market,67.01,49
+915,2020-03-07,Rice,Central Market,78.99,31
+916,2021-08-01,Maize,West End Market,24.16,31
+917,2020-11-18,wheat,Central Market,5.81,37
+918,2022-03-04,Tea,East Side Market,14.25,95
+919,2021-10-02,Coffee,North Market,85.94,20
+920,2022-01-16,Tea,East Side Market,67.15,21
+921,2022-07-01,Coffee,West End Market,17.46,80
+922,2022-04-04,Tea,,62.65,73
+923,2021-01-07,Rice,Central Market,48.21,38
+924,2020-05-06,Maize,North Market,49.96,57
+925,2022-09-01,wheat,North Market,63.87,57
+926,2022-03-20,Maize,North Market,88.18,80
+927,2020-04-05,COFFEE,West End Market,59.16,29
+928,2020-12-02,Wheat,North Market,22.13,51
+929,2021-04-26,Rice,North Market,75.42,59
+930,2020-08-06,Beans,Central Market,78.55,47
+931,2022-06-13,Maize,North Market,65.39,9
+932,2020-06-17,Wheat,West End Market,10.11,55
+933,,Wheat,East Side Market,46.49,74
+934,2020-01-15,Coffee,East Side Market,98.7,96
+935,2021-04-06,Wheat,North Market,15.79,53
+936,2020-06-19,Beans,Central Market,,25
+937,,Beans,East Side Market,59.8,
+938,2021-03-12,Coffee,Central Market,66.65,53
+939,2022-05-15,Rice,East Side Market,40.45,21
+940,2020-04-16,Tea,West End Market,94.1,13
+941,2021-08-18,Maize,North Market,76.24,70
+942,2020-05-07,Tea,North Market,78.8,15
+943,2020-11-10,Wheat,North Market,-19.35754624998276,37
+944,2022-04-16,Wheat,Central Market,44.38,
+945,2021-10-21,Tea,West End Market,59.36,72
+946,2020-06-11,Maize,North Market,65.45,23
+947,2021-07-20,Maize,East Side Market,64.99,98
+948,2020-14-50,Rice,Central Market,-1.565368017672091,20
+949,2021-10-30,Maize,Central Market,17.4,81
+950,2022-08-15,Rice,East Side Market,81.67,34
+951,2020-04-05,Maize,Central Market,93.08,19
+952,2020-08-03,Rice,East Side Market,51.65,10
+953,2021-09-13,Wheat,North Market,22.08,
+954,2020-05-04,Maize,West End Market,63.33,21
+955,2022-01-15,Maize,East Side Market,39.66,4
+956,2021-05-22,Beans,North Market,13.74,84
+957,2022-03-23,Wheat,West End Market,70.27,36
+958,2020-11-22,Rice,East Side Market,51.34,55
+959,2022-09-08,Coffee,East Side Market,40.53,9
+960,2020-03-15,Coffee,West End Market,15.89,55
+961,2022-03-25,Rice,West End Market,35.27,
+962,2022-06-23,Beans,North Market,25.16,72
+963,2021-05-25,Tea ,North Market,46.34,26
+964,2021-10-21,Rice,Central Market,62.14,31
+965,2021-10-22,Coffee,,84.96,69
+966,2020-02-18,wheat,West End Market,76.6,72
+967,2020-08-17,Tea,North Market,96.88,48
+968,2021-01-12,Maize,West End Market,73.8,12
+969,2021-09-19,Coffee,Central Market,79.57,39
+970,2022-06-28,Wheat,East Side Market,60.43,41
+971,2022-01-18,Wheat,Central Market,27.85,63
+972,2020-07-29,Maize,West End Market,38.54,32
+973,2020-08-01,Maize,Central Market,68.7,50
+974,2020-05-13,Coffee,West End Market,34.62,20
+975,2021-12-03,Rice,North Market,53.78,25
+976,2020-01-30,Coffee,East Side Market,15.18,3
+977,2021-06-04,Coffee,West End Market,57.28,28
+978,2020-06-29,Wheat,Central Market,,55
+979,2020-02-06,Coffee,North Market,9.74,15
+980,2022-04-23,BEANS,West End Market,63.92,51
+981,,Rice,East Side Market,38.03,77
+982,2022-07-10,Tea,West End Market,70.35,88
+983,2020-01-10,Maize,North Market,21.86,10
+984,2022-05-05,Wheat,North Market,49.89,3
+985,2021-07-12,Coffee,East Side Market,14.5,43
+986,2022-07-12,Wheat,North Market,-18.278692526784294,67
+987,2021-08-14,Wheat,Central Market,43.98,19
+988,2022-07-09,Wheat,Central Market,95.71,36
+989,2021-06-16,Coffee,West End Market,42.15,36
+990,2021-12-02,Coffee,North Market,80.29,15
+991,2021-04-09,Tea,West End Market,68.11,37
+992,2020-02-21,Rice,Central Market,,56
+993,2020-03-23,Rice,East Side Market,72.75,94
+994,2020-09-24,Maize,West End Market,69.46,52
+995,2021-03-02,Coffee,North Market,35.64,88
+996,2020-04-08,Rice,West End Market,64.69,49
+997,2020-01-28,Wheat,West End Market,45.63,53
+998,2020-10-27,WHEAT,West End Market,60.13,80
+999,2021-10-27,Wheat,Central Market,77.48,7
+608,2021-08-04,Maize,North Market,43.9,54
+99,2020-05-23,Coffee,East Side Market,65.36,90
+841,2022-06-04,Tea,East Side Market,40.66,86
+297,2021-12-21,Wheat,East Side Market,61.29,90
+579,2021-01-19,Wheat,West End Market,15.46,31
+493,2021-12-05,Beans,West End Market,63.17,30
+707,2020-06-17,Maize,Central Market,54.15,44
+339,2020-14-50,Maize,North Market,43.32,50
+885,2020-08-11,Beans,North Market,42.07,27
+62,2021-08-18,Wheat,North Market,6.64,52
+124,2020-05-29,Coffee,East Side Market,38.19,83
+758,2021-02-13,Beans,East Side Market,74.79,43
+598,2020-10-19,Rice,Central Market,32.02,80
+690,,Coffee,North Market,13.33,25
+523,2020-10-07,Beans,East Side Market,55.57,86
+757,2021-10-16,Rice,North Market,14.96,6
+734,2020-04-01,Rice,East Side Market,53.48,95
+54,2021-01-12,Beans,East Side Market,49.99,28
+718,2022-09-01,Wheat,Central Market,48.27,21
