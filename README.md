@@ -49,20 +49,12 @@ python check.py
 
 ### Step 3: Profile the data
 ```bash
-# Option A: Direct run (uses default path)
-python src/validate/profile.py
-
-# Option B: Import and call function (can specify custom path)
-python -c "from src.validate.profile import profile_data; profile_data('data/raw/prices.csv')"
+python -m src.validate.profile
 ```
 
 ### Step 4: Clean the data
 ```bash
-# Option A: Direct run (uses default paths in the script)
-python src/transform/clean.py
-
-# Option B: Import and call function (can specify custom paths)
-python -c "from src.transform.clean import clean_data; clean_data('data/raw/prices.csv', 'data/processed/prices_clean.parquet')"
+python -m src.transform.clean
 ```
 
 ## Data Quality Issues Introduced
